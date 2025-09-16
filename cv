@@ -2,11 +2,11 @@
     <head>
         <title> Curriculum vitae</title>
         <style> 
-            body{ font-family:arial;margin:20px;background-color:lightgreen;color:black;}
+            body{ font-family:arial;margin:20px;background-color:lightgreen;color:baby pink;}
             h1,h2{color:yellow;}
             .section{margin-bottom:20px;color:darkred}
-            #section{margin-bottom:20px;color:black;}
-            .section h1,h2{border-bottom:1px black;padding-bottom:5px;color:black}
+            #section{margin-bottom:20px;color:green;}
+            .section h1,h2{border-bottom:1px black;padding-bottom:5px;color:blue}
             ul{list-style-type:circle;}
         </style>
     </head>
