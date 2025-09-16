@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title> CV</title>
+        <title> Curriculum vitae</title>
         <style> 
             body{ font-family:arial;margin:20px;background-color:lightgreen;color:black;}
             h1,h2{color:yellow;}
